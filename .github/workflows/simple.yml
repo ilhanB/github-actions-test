@@ -10,7 +10,7 @@ jobs:
         run:  eccho "Hello World"
       - name: multine script
         run: |
-          nove -v
+          node -v
           npm -v 
 
 
